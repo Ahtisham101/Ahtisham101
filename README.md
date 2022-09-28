@@ -10,7 +10,7 @@ I am
 
 ### 🎲 Passionate Problem Solver.
 
-### 👨‍💻 Front End developer.
+### 👨‍💻 Front End Developer.
 
 
 _Here are the tools I use/work with._
