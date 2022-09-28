@@ -17,7 +17,7 @@ _Here are the tools I use/work with._
 
 | Title                 | Technologies                                              |
 | --------------------- | --------------------------------------------------------- |
-| FrontEnd              | React/Next-js, Redux                                      |
+| FrontEnd              | React/Next-js,Redux                                      |
 | Programming Languages | JavaScript/Typescript, C, C++                             |
 | Version Control       | Git and GitHub                                            |
 
